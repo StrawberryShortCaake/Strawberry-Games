@@ -11,7 +11,7 @@ document.getElementsByClassName("article")[2].addEventListener("click", function
 })
 
 document.getElementsByClassName("article")[3].addEventListener("click", function(){
-    window.open("https://strawberryshortcaake.github.io/snake/")
+    window.open("https://strawberryshortcaake.github.io/snakegame/")
 })
 
 document.getElementsByClassName("article")[4].addEventListener("click", function(){
